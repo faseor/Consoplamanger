@@ -1,5 +1,5 @@
 <div align=center>
-	<img src=".README/header.png" />
+	<img src="README.res/header.png" />
 </div>
 
 # Consoplamanger playlist viewer
@@ -46,35 +46,35 @@ The Consoplamanger control panel is on the left. There you can sort, search for 
 
 # Screenshots
 
-![basic view](.README/img01.png)
+![basic view](README.res/img01.png)
 
-![multiselection](.README/img02.png)
+![multiselection](README.res/img02.png)
 
-![side panel](.README/img03.png)
+![side panel](README.res/img03.png)
 
-![sort panel](.README/img04.png)
+![sort panel](README.res/img04.png)
 
-![another sort panel](.README/img05.png)
+![another sort panel](README.res/img05.png)
 
-![search panel](.README/img06.png)
+![search panel](README.res/img06.png)
 
-![popup menu](.README/img07.png)
+![popup menu](README.res/img07.png)
 
-![consoplamanger configurations](.README/img08.png)
+![consoplamanger configurations](README.res/img08.png)
 
-![fast search](.README/img09.png)
+![fast search](README.res/img09.png)
 
-![dark view](.README/img10.png)
+![dark view](README.res/img10.png)
 
-![dark side panel](.README/img11.png)
+![dark side panel](README.res/img11.png)
 
-![dark sort panel](.README/img12.png)
+![dark sort panel](README.res/img12.png)
 
-![dark search panel](.README/img13.png)
+![dark search panel](README.res/img13.png)
 
-![dark config panel](.README/img14.png)
+![dark config panel](README.res/img14.png)
 
-![dark fast search](.README/img15.png)
+![dark fast search](README.res/img15.png)
 
 # Problems
 
